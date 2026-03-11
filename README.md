@@ -24,15 +24,14 @@
 
 <!-- One-liner: who you are in a single breath -->
 **B.Tech CSE · 6th Semester · Bangalore, India**  
-*I specialize in backend architecture, API design, and developer tooling —*  
-*the unglamorous infrastructure that makes products actually work.*
+*A CSE undergraduate passionate about building efficient systems in web, AI, and automation, with a strong focus
+on learning and innovation. —*  
 
 <br/>
 
 <!-- What excites me technically — personality signal for dev audience.
      Other engineers want to know *why* you build what you build. -->
-> 🧠 Obsessed with **graph problems**, **distributed system design**, and making  
-> local dev environments disappear. If it involves Neo4j, Docker, or LLM pipelines — I'm in.
+> 🧠 When I’m not coding, I’m busy decoding how new technologies and business models shape the future.  
 
 </div>
 
